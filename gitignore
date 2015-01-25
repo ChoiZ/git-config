@@ -1,0 +1,32 @@
+# ~/.gitignore
+# Last modified: 2015-01-25
+# Author: François LASSERRE <choiz@me.com>
+# License: GNU GPL http://www.gnu.org/licenses/gpl.html
+
+# Linux
+.*
+!.gitignore
+*~
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+## Thumbnails
+._*
+
+## Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Node
+node_modules
+
+# VIM
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+doc/tags
