@@ -59,6 +59,6 @@
     checkphp = true
     checkjs = true
 [http]
-	sslVerify = false
+    sslVerify = false
 [url "https://"]
-	insteadOf = git://
+    insteadOf = git://
